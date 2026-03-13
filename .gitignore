@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Obsidian - полная изоляция конфигурации
+.obsidian/
+.obsidian.vimrc
+*.obsidian/cache/
+
+# Если вы используете плагины, которые создают временные файлы
+temp/
+*.tmp
